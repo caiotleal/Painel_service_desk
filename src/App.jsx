@@ -209,7 +209,7 @@ export default function App() {
         <div className="flex items-center gap-8">
           <div className="flex items-baseline gap-2">
             <h1 className="font-black text-2xl italic tracking-tighter text-blue-600 font-mono">KS PRO</h1>
-            <span className="text-[10px] font-bold text-slate-500">v2.3</span>
+            <span className="text-[10px] font-bold text-slate-500">v2.4</span>
           </div>
           <div className="flex -space-x-2">
             {analistas.map((a, i) => (
